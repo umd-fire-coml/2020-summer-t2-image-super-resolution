@@ -1,6 +1,5 @@
 # 2020-summer-t2-image-super-resolution
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/umd-fire-coml/2020-summer-t2-image-super-resolution/master?filepath=SAN%2FTestCode%2Fcode%2FPresentation.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/umd-fire-coml/2020-summer-t2-image-super-resolution/master?urlpath=SAN%2FTestCode%2Fcode%2FPresentation.ipynb)
 
 Filepath of presentation is [SAN/TestCode/code/Presentation.ipynb](https://github.com/umd-fire-coml/2020-summer-t2-image-super-resolution/blob/master/SAN/TestCode/code/Presentation.ipynb).
 
