@@ -1,0 +1,85 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   SAN/TestCode/SR/BI/Set5x2/Set5/x2/bird_Set5x2_x2.png
+#	new file:   SAN/TestCode/SR/BI/Set5x2/Set5/x2/head_Set5x2_x2.png
+#	new file:   SAN/TestCode/SR/BI/Set5x2/Set5/x2/woman_Set5x2_x2.png
+#	new file:   SAN/TestCode/SR/BI/Set5x2/config.txt
+#	new file:   SAN/TestCode/SR/BI/Set5x2/log.txt
+#
+# Changes not staged for commit:
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/baboon_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/barbara_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/bridge_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/coastguard_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/comic_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/face_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/flowers_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/foreman_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/lenna_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/man_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/monarch_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/pepper_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/ppt3_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/Set14/x2/zebra_Set14x2_1_x2.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/config.txt
+#	deleted:    SAN/TestCode/SR/BI/Set14x2_1/log.txt
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/baboon_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/barbara_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/bridge_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/coastguard_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/comic_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/face_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/flowers_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/foreman_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/lenna_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/man_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/monarch_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/pepper_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/ppt3_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/Set14/x3/zebra_Set14x3_x3.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/config.txt
+#	deleted:    SAN/TestCode/SR/BI/Set14x3/log.txt
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/baboon_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/barbara_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/bridge_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/coastguard_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/comic_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/face_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/flowers_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/foreman_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/lenna_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/man_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/monarch_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/pepper_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/ppt3_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/Set14/x8/zebra_Set14x8_x8.png
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/config.txt
+#	deleted:    SAN/TestCode/SR/BI/Set14x8/log.txt
+#	modified:   SAN/TestCode/code/.ipynb_checkpoints/Presentation-checkpoint.ipynb
+#	modified:   SAN/TestCode/code/Presentation.ipynb
+#	modified:   SAN/TestCode/code/__pycache__/dataloader.cpython-37.pyc
+#	modified:   SAN/TestCode/code/data/__pycache__/__init__.cpython-37.pyc
+#	modified:   SAN/TestCode/code/data/__pycache__/common.cpython-37.pyc
+#	modified:   SAN/TestCode/code/data/__pycache__/myimage.cpython-37.pyc
+#	modified:   SAN/TestCode/code/loss/__pycache__/__init__.cpython-37.pyc
+#	modified:   SAN/TestCode/code/model/MPNCOV/__pycache__/__init__.cpython-37.pyc
+#	modified:   SAN/TestCode/code/model/MPNCOV/python/__pycache__/MPNCOV.cpython-37.pyc
+#	modified:   SAN/TestCode/code/model/MPNCOV/python/__pycache__/__init__.cpython-37.pyc
+#	modified:   SAN/TestCode/code/model/__pycache__/__init__.cpython-37.pyc
+#	modified:   SAN/TestCode/code/model/__pycache__/common.cpython-37.pyc
+#	modified:   SAN/TestCode/code/model/__pycache__/san.cpython-37.pyc
+#
+# Untracked files:
+#	SAN/TestCode/code/resources/.ipynb_checkpoints/
+#	SAN/TestCode/code/resources/LSRAG.png
+#	SAN/TestCode/code/resources/NLRG.png
+#	SAN/TestCode/code/resources/RL-NL.png
+#	SAN/TestCode/code/resources/SAN.png
+#	SAN/TestCode/code/resources/SOCA.png
+#	SAN/TestCode/code/resources/framework.png
+#

@@ -1,5 +1,0 @@
-
-Evaluation:
-[MyImage x8]	PSNR: 0.000 (Best: 0.000 @epoch 1)
-Total time: 6.44s, ave time: 0.46s
-
