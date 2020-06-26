@@ -10,4 +10,4 @@ References¶
 
 Code was originally written by Tao Dai, Jianrui Cai, Yongbing Zhang, Shu-Tao Xia, Lei Zhang and is available at Source 1.
 
-Their implementation is based on the Second-Order Attention Network for Single Image Super-Resolution they present in Source 2.
+This implementation is based on the Second-Order Attention Network for Single Image Super-Resolution they present in Source 2.
